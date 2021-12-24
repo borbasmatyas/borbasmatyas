@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 Im Matyi from Hungary. :hungary: <br>
-An amateur developer with perhaps workable solutions.
+An amateur developer with perhaps workable solutions. <br>
+*The most contents and the READMEs are in Hungarian language.*
 
 
 <!--
