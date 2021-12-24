@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Im Matyi from Hungary. :hungary: <br>
+An amateur developer with perhaps workable solutions.
+
+
 <!--
 **borbasmatyas/borbasmatyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
