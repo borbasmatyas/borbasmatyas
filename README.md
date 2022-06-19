@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 Im Matyi from Hungary. :hungary: <br>
-Originally a photographer / photojournalist, but here as an amateur developer with terrible but perhaps workable  solutions.
+Originally a photographer / photojournalist,
+but here as an amateur developer
+with terrible, but perhaps workable  solutions.
 
 *The most contents and the READMEs are in Hungarian language.*
 
