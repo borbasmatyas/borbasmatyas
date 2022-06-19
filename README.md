@@ -8,6 +8,8 @@ with terrible, but perhaps workable  solutions. <br>
 *The most contents and the READMEs are in Hungarian language.*
 
 
+:koala:
+
 <!--
 **borbasmatyas/borbasmatyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
