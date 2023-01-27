@@ -9,7 +9,7 @@ but perhaps workable  solutions. <br>
 *The most contents and the READMEs are in Hungarian language.*
 
 
-### 🐨 🐑 ☕ 🍕 🌳 ⛰️ 🍺
+### 🐨 🐑 ☕ 🍕 🌳 ⛰️ 🍺 🤘
 
 
 <!--
