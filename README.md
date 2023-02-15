@@ -1,4 +1,4 @@
-## Hi there 👋
+**Hi there 👋**
 
 Im Matyi from Hungary. :hungary: <br>
 Originally a photographer / photojournalist, <br>
